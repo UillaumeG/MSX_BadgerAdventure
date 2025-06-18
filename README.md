@@ -1,2 +1,6 @@
 # MSX_BadgerAdventure
-{WIP] MSX game, the hero is a badger walking into mazes into isometric view. Compiling to rom cartridge, written with C library MSX GL
+[WIP] 
+An MSX game #retrogaming
+"The hero is a badger trying to make its way into mazes ; screens are in isometric view"
+Compiling to rom cartridge format
+Written in C, using library MSX-GL
