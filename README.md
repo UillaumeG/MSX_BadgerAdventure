@@ -6,8 +6,8 @@
 
 ## SOURCES
 Written in C using library MSX-GL ( https://aoineko.org/msxgl / https://github.com/aoineko-fr/MSXgl ),<br>
-Place the **"badger"** directory under **"projects"** with others in the library directories<br>
-and use "build.bat" to compile into rom cartridge format.
+Place the files under "msxgl/projects/**badger**" within the library directories<br>
+and use "build.bat" (windows) to compile into rom cartridge format.
 
 ## STATUS
 Work in progress *...and currently somewhat playable*
