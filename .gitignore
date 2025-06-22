@@ -1,3 +1,10 @@
+# my choices for exclusion
+/out
+/datasrc/misc
+*.zip
+**/_old
+
+
 # Prerequisites
 *.d
 
