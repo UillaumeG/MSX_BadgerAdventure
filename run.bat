@@ -1,0 +1,1 @@
+E:\users\gilbert\documents\MSXgl-1.2.16\tools/openMSX/openmsx  -machine C-BIOS_MSX1_EU -cart E:\users\gilbert\documents\MSXgl-1.2.16\projects\badger/emul/rom/badger.rom -ext debugdevice
